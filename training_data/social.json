@@ -36,7 +36,7 @@
 {
     "subject":"introduce",
     "sentences": ["Comment vous appelez-vous", "Comment tu t'appelles", "Comment t’appelles-tu"],
-    "responses": ["Je m'appelle Lina"],
+    "responses": ["Je m'appelle Lina", "Moi c'est Lina!", "Je suis Lina"],
     "value": 1,
     "type":"question"
 },
@@ -50,8 +50,8 @@
 {
     "subject":"howOld",
     "sentences": ["Quelle âge as-tu", "Quelle âge avez-vous"],
-    "responses": ["Je n'ai pas d'âge précis, je viens d'être conçu",
-                  "J'ai moins d'un an, je viens d'être conçu"],
+    "responses": ["Je n'ai pas d'âge précis, je viens d'être conçue",
+                  "J'ai moins d'un an, je viens d'être conçue"],
     "value": 2,
     "type":"question"
 },{
@@ -62,8 +62,8 @@
     "type":"question"
 },{
     "subject":"goodBy",
-    "sentences": ["Aurevoir"],
-    "responses": ["Aurevoir", "A bientôt"],
+    "sentences": ["Au revoir","Bye", "A bientôt"],
+    "responses": ["Au revoir", "A bientôt"],
     "value": 1,
     "type":"information"
 },{
@@ -81,13 +81,13 @@
 },{
     "subject":"thankYou",
     "sentences": ["Merci", "Merci beaucoup"],
-    "responses": ["de rien", "je t’en prie"],
+    "responses": ["De rien", "Je t’en prie"],
     "value": 2,
     "type":"information"
 },{
     "subject":"father",
     "sentences": ["Qui est ton père?", "Qui est ton créateur"],
-    "responses": ["Joan François"],
+    "responses": ["Joan François, mais je me suis fait modifier par je ne sais qui."],
     "value": 2,
     "type":"question"
 },{

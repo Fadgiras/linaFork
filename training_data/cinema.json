@@ -1,7 +1,7 @@
 [{
     "subject":"bestFilm",
     "sentences": ["C'est quoi tes films favoris?", "Dis moi des films que tu aimes bien?"],
-    "responses": ["Inception, CHAPI des bons films d'IA"],
+    "responses": ["J'aime beaucoup les vieux films français comme les De Funès."],
     "value": 2,
     "type":"question"
 },{
