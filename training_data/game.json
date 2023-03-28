@@ -145,4 +145,34 @@
                   "Gauss est un bon choix pour les captures. Il peut aller éliminer les ennemis très rapidement avec son sprint."],
     "value": 1,
     "type":"question"
+},{
+    "subject":"WarframeAdequateDmgGrineer",
+    "sentences": ["Quel est le type de dégat le plus adapté aux Grineers", "Le bon type de dégat pour les grineers?"],
+    "responses": ["Mieux vaut utiliser des dégâts perforants et corrosifs contre les Grineers. Ils sont très résistants aux dégâts physiques."],
+    "value": 1,
+    "type":"question"
+},{
+    "subject":"WarframeAdequateDmgCorpus",
+    "sentences": ["Quel est le type de dégat le plus adapté aux Corpus", "Le bon type de dégat pour les corpus?"],
+    "responses": ["Utilise des dégâts magnétiques contre les Corpus. Ca abaissera leur bouclier."],
+    "value": 1,
+    "type":"question"
+},{
+    "subject":"WarframeAdequateDmgInfested",
+    "sentences": ["Quel est le type de dégat le plus adapté aux Infestés", "Le bon type de dégat pour les infestés?"],
+    "responses": ["Les infestés sont très faibles aux dégâts viraux. Ils n'ont que de la vie pure."],
+    "value": 1,
+    "type":"question"
+},{
+    "subject":"WarframeAdequateDmgCorrupted",
+    "sentences": ["Quel est le type de dégat le plus adapté aux Corrompus", "Le bon type de dégat pour les corrompus?"],
+    "responses": ["Les Corrompus viennent de toutes les factions. Essaie les dégâts bruts du néant, vu que tu peux pas tout prévoir."],
+    "value": 1,
+    "type":"question"
+},{
+    "subject":"WarframeAdequateDmgSentient",
+    "sentences": ["Quel est le type de dégat le plus adapté aux Sentients", "Le bon type de dégat pour les Sentients?"],
+    "responses": ["Les Sentients sont très résistants aux dégâts de statut généraux. Utilise des dégâts bruts du néant pour être efficace."],
+    "value": 1,
+    "type":"question"
 }]
